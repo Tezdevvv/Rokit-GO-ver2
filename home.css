@@ -1,0 +1,37 @@
+.home {
+    background-color: aqua;
+    height: 50vw;
+}
+
+.mainHome {
+    background-color: black;
+    width: 100vw;
+    height: 100%;
+    display: flex;
+}
+
+.lHome {
+    background-color: beige;
+    /* padding-top: 20vw; */
+    display: flex;
+    align-items: center;
+    width: 67vw;
+    padding-left: 5vw;
+}
+
+.lHome h1 {
+    margin-bottom: 5vw;
+}
+
+.lHome p {
+    margin-bottom: 5vw;
+}
+
+.lHome button {
+    width: 20vw;
+}
+
+.rHome {
+    background-color: chartreuse;
+    width: 33vw;
+}
